@@ -137,8 +137,8 @@ namespace StarterAssets
 
         void SetCountText()
         {
-            countText.text = "Count: " + count.ToString() + " / 10";
-            if (count >= 12)
+            countText.text = "Count: " + count.ToString() + " / 8";
+            if (count >= 8)
             {
                 winTextObject.SetActive(true);
             }
