@@ -101,6 +101,4 @@ InitTestScene*.unity*
 # Ignore third-party demo assets
 /[Aa]ssets/Imported
 /[Aa]ssets/Scenes
-/[Aa]ssets/Settings
-/[Aa]ssets/SharedAssets
 /[Aa]ssets/Tutorials
